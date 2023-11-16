@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+<item android:title="Profile"
+      android:icon="@drawable/user"
+    android:id="@+id/Profile"/>
+    <item android:id="@+id/Support"
+          android:icon="@drawable/ic_support"
+           android:title="Support"/>
+    <item android:id="@+id/Contact"
+        android:icon="@drawable/contact"
+        android:title="Contact Us"/>
+    <item android:id="@+id/Condition"
+          android:title="Term and Condition"
+          android:icon="@drawable/condition"/>
+    <item android:id="@+id/About"
+        android:title="About Us"
+        android:icon="@drawable/info"/>
+    <item android:id="@+id/Sharing"
+          android:title="Sharing"
+          android:icon="@drawable/ic_sharing"/>
+    <item android:id="@+id/wishList"
+        android:title="WishList"
+        android:icon="@drawable/heart"/>
+    <item android:id="@+id/Logout"
+        android:title="Logout"
+        android:icon="@drawable/power"/>
+
+</menu>

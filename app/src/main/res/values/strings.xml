@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RoomDbUsingAndroidApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profileDetail">This should be obvious, but if they can’t see your face, you’ve got a problem.
+
+Faces are a uniquely powerful type of imagery. Studies about the psychology of images show that faces leverage a cognitive bias built into our brains.
+
+Of course, you have passions. You love dogs or helicopters or skiing. But your profile picture isn’t the place to make this point.</string>
+
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="fruit_detail">Fruit is the sweet, fleshy, edible part of a plant.
+        It generally contains seeds. Fruits are usually eaten raw,
+        although some varieties can be cooked. They come in a wide variety of colours, shapes and flavours.</string>
+</resources>
